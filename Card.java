@@ -1,5 +1,5 @@
 class Card {
-	//gives card 2 defining factors, the colour and identity
+	//gives card 2 defining factors, the colour/identity
 	public int colour;
 	public int identity;
 	static int tem = 0;
